@@ -1,7 +1,8 @@
----
-title: "Investigating Suicide Rate"
----
-# Executive Summary
+
+# Investigating Suicide Rate
+###By Anosh.S, Stuart.T, Matteus.R and Kshitij.M
+
+## Executive Summary
 
 Suicide is a growing problem in many places around the globe in the 21st century. This report aims to determine whether there is a correlation between socio-economic and health factors and suicide rate through the comparison of gross domestic product, age, sex, and unemployment rate. Through the comparison of these variables, the report will explore the trends in the data to understand why the trends found exist and what is potentially driving the changes. 
 
