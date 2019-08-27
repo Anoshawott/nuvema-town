@@ -1,6 +1,6 @@
 
 # Investigating Suicide Rate
-###By Anosh.S, Stuart.T, Matteus.R and Kshitij.M
+##By Anosh.S, Stuart.T, Matteus.R and Kshitij.M
 
 ## Executive Summary
 
