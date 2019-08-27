@@ -1,0 +1,1081 @@
+Country,Year,Gender,Suicide Rate,Unemployment Rate,GDP Per Capita ($ PPP),Region
+Afghanistan,2000,Male,10.9,11.2,0,Asia
+Afghanistan,2000,Female,2.3,11.2,0,Asia
+Afghanistan,2005,Male,11.7,8.5,1011.595524,Asia
+Afghanistan,2005,Female,2.6,8.5,1011.595524,Asia
+Afghanistan,2010,Male,11.1,7.8,1581.600836,Asia
+Afghanistan,2010,Female,2.8,7.8,1581.600836,Asia
+Afghanistan,2015,Male,10.9,8.9,1926.357336,Asia
+Afghanistan,2015,Female,3.1,8.9,1926.357336,Asia
+Albania,2000,Male,9.8,22.7,4029.016971,Europe
+Albania,2000,Female,3.1,22.7,4029.016971,Europe
+Albania,2005,Male,9.5,17.5,5942.884009,Europe
+Albania,2005,Female,3.6,17.5,5942.884009,Europe
+Albania,2010,Male,7.3,14.2,9637.345368,Europe
+Albania,2010,Female,2.8,14.2,9637.345368,Europe
+Albania,2015,Male,5.3,17.1,11282.79358,Europe
+Albania,2015,Female,2.4,17.1,11282.79358,Europe
+Algeria,2000,Male,4.8,29.8,8093.530893,Africa
+Algeria,2000,Female,2.3,29.8,8093.530893,Africa
+Algeria,2005,Male,5.4,15.3,10971.84687,Africa
+Algeria,2005,Female,2.1,15.3,10971.84687,Africa
+Algeria,2010,Male,5.3,10,12610.24805,Africa
+Algeria,2010,Female,1.4,10,12610.24805,Africa
+Algeria,2015,Male,5,11.2,14614.97043,Africa
+Algeria,2015,Female,1.3,11.2,14614.97043,Africa
+Angola,2000,Male,36.3,23.7,2781.25814,Africa
+Angola,2000,Female,12,23.7,2781.25814,Africa
+Angola,2005,Male,38.5,21.4,3516.402658,Africa
+Angola,2005,Female,13.3,21.4,3516.402658,Africa
+Angola,2010,Male,38.8,9.9,5775.864013,Africa
+Angola,2010,Female,14.3,9.9,5775.864013,Africa
+Angola,2015,Male,38.1,7.3,6635.24275,Africa
+Angola,2015,Female,14.3,7.3,6635.24275,Africa
+Argentina,2000,Male,22.8,15,11810.06136,South America
+Argentina,2000,Female,5,15,11810.06136,South America
+Argentina,2005,Male,20.5,11.5,13817.71407,South America
+Argentina,2005,Female,4.5,11.5,13817.71407,South America
+Argentina,2010,Male,21.4,7.4,18333.5437,South America
+Argentina,2010,Female,4.6,7.4,18333.5437,South America
+Argentina,2015,Male,23.7,6.9,20340.29242,South America
+Argentina,2015,Female,4.8,6.9,20340.29242,South America
+Armenia,2000,Male,6.7,10.9,2318.238073,Middle East
+Armenia,2000,Female,1.7,10.9,2318.238073,Middle East
+Armenia,2005,Male,7.3,8.2,4769.489004,Middle East
+Armenia,2005,Female,1.5,8.2,4769.489004,Middle East
+Armenia,2010,Male,7.9,7,6567.258582,Middle East
+Armenia,2010,Female,1.8,7,6567.258582,Middle East
+Armenia,2015,Male,8,18.3,8727.558325,Middle East
+Armenia,2015,Female,1.8,18.3,8727.558325,Middle East
+Australia,2000,Male,20,6.3,26343.07133,Oceania
+Australia,2000,Female,5.2,6.3,26343.07133,Oceania
+Australia,2005,Male,16.8,5,32591.80935,Oceania
+Australia,2005,Female,4.9,5,32591.80935,Oceania
+Australia,2010,Male,16.6,5.2,39227.26854,Oceania
+Australia,2010,Female,5.1,5.2,39227.26854,Oceania
+Australia,2015,Male,15.3,6.1,46095.16556,Oceania
+Australia,2015,Female,5.6,6.1,46095.16556,Oceania
+Austria,2000,Male,24.9,4.7,29375.4048,Europe
+Austria,2000,Female,7.8,4.7,29375.4048,Europe
+Austria,2005,Male,21.1,5.6,35013.71404,Europe
+Austria,2005,Female,6.3,5.6,35013.71404,Europe
+Austria,2010,Male,19.4,4.8,42047.03268,Europe
+Austria,2010,Female,5.4,4.8,42047.03268,Europe
+Austria,2015,Male,18.5,5.7,49938.10629,Europe
+Austria,2015,Female,5.3,5.7,49938.10629,Europe
+Azerbaijan,2000,Male,4.8,11.8,3534.329148,Middle East
+Azerbaijan,2000,Female,1,11.8,3534.329148,Middle East
+Azerbaijan,2005,Male,6,7.3,7169.150431,Middle East
+Azerbaijan,2005,Female,1.4,7.3,7169.150431,Middle East
+Azerbaijan,2010,Male,6,5.6,15627.60562,Middle East
+Azerbaijan,2010,Female,1.3,5.6,15627.60562,Middle East
+Azerbaijan,2015,Male,5.3,5,17782.02615,Middle East
+Azerbaijan,2015,Female,1.1,5,17782.02615,Middle East
+Bahamas,2000,Male,2.5,7.2,20487.34318,Central America
+Bahamas,2000,Female,1,7.2,20487.34318,Central America
+Bahamas,2005,Male,1.1,10.2,22602.9565,Central America
+Bahamas,2005,Female,0.2,10.2,22602.9565,Central America
+Bahamas,2010,Male,2.6,14.3,22431.92995,Central America
+Bahamas,2010,Female,1.2,14.3,22431.92995,Central America
+Bahamas,2015,Male,2.9,12,22448.52703,Central America
+Bahamas,2015,Female,0.4,12,22448.52703,Central America
+Bahrain,2000,Male,9,5.6,35622.6017,Middle East
+Bahrain,2000,Female,3.5,5.6,35622.6017,Middle East
+Bahrain,2005,Male,10.2,7.8,38466.56221,Middle East
+Bahrain,2005,Female,3.4,7.8,38466.56221,Middle East
+Bahrain,2010,Male,9.9,1.1,39749.84938,Middle East
+Bahrain,2010,Female,3.1,1.1,39749.84938,Middle East
+Bahrain,2015,Male,9.5,1.2,46775.74033,Middle East
+Bahrain,2015,Female,2.9,1.2,46775.74033,Middle East
+Bangladesh,2000,Male,6.6,3.3,1301.463285,Asia
+Bangladesh,2000,Female,8.6,3.3,1301.463285,Asia
+Bangladesh,2005,Male,5.2,4.3,1718.402873,Asia
+Bangladesh,2005,Female,9.2,4.3,1718.402873,Asia
+Bangladesh,2010,Male,5,3.4,2393.315832,Asia
+Bangladesh,2010,Female,8.3,3.4,2393.315832,Asia
+Bangladesh,2015,Male,5.3,4.4,3335.759791,Asia
+Bangladesh,2015,Female,6.6,4.4,3335.759791,Asia
+Barbados,2000,Male,3.3,9.4,12275.0545,South America
+Barbados,2000,Female,0.6,9.4,12275.0545,South America
+Barbados,2005,Male,3.7,9.1,14394.21876,South America
+Barbados,2005,Female,0.3,9.1,14394.21876,South America
+Barbados,2010,Male,2.3,10.7,16124.99483,South America
+Barbados,2010,Female,0.3,10.7,16124.99483,South America
+Barbados,2015,Male,0.5,11.4,17527.83285,South America
+Barbados,2015,Female,0.1,11.4,17527.83285,South America
+Belarus,2000,Male,68.7,0.9,5994.557257,Europe
+Belarus,2000,Female,10.1,0.9,5994.557257,Europe
+Belarus,2005,Male,56,0.9,9984.192557,Europe
+Belarus,2005,Female,9.5,0.9,9984.192557,Europe
+Belarus,2010,Male,42.8,1.2,15906.7562,Europe
+Belarus,2010,Female,7.2,1.2,15906.7562,Europe
+Belarus,2015,Male,35,0.5,18347.1407,Europe
+Belarus,2015,Female,5.4,0.5,18347.1407,Europe
+Belgium,2000,Male,28.2,6.6,27983.99612,Europe
+Belgium,2000,Female,10.4,6.6,27983.99612,Europe
+Belgium,2005,Male,24.8,8.4,33332.33135,Europe
+Belgium,2005,Female,8.7,8.4,33332.33135,Europe
+Belgium,2010,Male,23.8,8.3,40091.00999,Europe
+Belgium,2010,Female,9.1,8.3,40091.00999,Europe
+Belgium,2015,Male,23.4,8.5,45430.90738,Europe
+Belgium,2015,Female,9.1,8.5,45430.90738,Europe
+Belize,2000,Male,16.5,11,5516.142414,Central America
+Belize,2000,Female,2.5,11,5516.142414,Central America
+Belize,2005,Male,11.2,11,7008.805746,Central America
+Belize,2005,Female,1.3,11,7008.805746,Central America
+Belize,2010,Male,11.8,11.3,7715.950318,Central America
+Belize,2010,Female,2.4,11.3,7715.950318,Central America
+Belize,2015,Male,14.7,10,8584.225635,Central America
+Belize,2015,Female,2,10,8584.225635,Central America
+Benin,2000,Male,21.8,0.8,1320.889575,Africa
+Benin,2000,Female,7.9,0.8,1320.889575,Africa
+Benin,2005,Male,22.9,0.9,1545.698265,Africa
+Benin,2005,Female,8.2,0.9,1545.698265,Africa
+Benin,2010,Male,22.3,1,1781.987066,Africa
+Benin,2010,Female,8.3,1,1781.987066,Africa
+Benin,2015,Male,22.7,2.6,2116.063638,Africa
+Benin,2015,Female,8.4,2.6,2116.063638,Africa
+Bhutan,2000,Male,20,1.7,2804.932757,Asia
+Bhutan,2000,Female,13.7,1.7,2804.932757,Asia
+Bhutan,2005,Male,17.2,3.1,4026.341876,Asia
+Bhutan,2005,Female,11.7,3.1,4026.341876,Asia
+Bhutan,2010,Male,14.5,3.3,6289.814364,Asia
+Bhutan,2010,Female,10.5,3.3,6289.814364,Asia
+Bhutan,2015,Male,13.9,2.5,8245.605306,Asia
+Bhutan,2015,Female,9.9,2.5,8245.605306,Asia
+Bolivia (Plurinational State of),2000,Male,36.7,4.5,3497.279475,South America
+Bolivia (Plurinational State of),2000,Female,19.2,4.5,3497.279475,South America
+Bolivia (Plurinational State of),2005,Male,32.6,5.1,4180.318235,South America
+Bolivia (Plurinational State of),2005,Female,18.5,5.1,4180.318235,South America
+Bolivia (Plurinational State of),2010,Male,29.7,2.5,5298.084512,South America
+Bolivia (Plurinational State of),2010,Female,16.4,2.5,5298.084512,South America
+Bolivia (Plurinational State of),2015,Male,26.7,3.1,6955.18277,South America
+Bolivia (Plurinational State of),2015,Female,14.4,3.1,6955.18277,South America
+Bosnia and Herzegovina,2000,Male,14.7,25.4,4528.613045,Europe
+Bosnia and Herzegovina,2000,Female,3.5,25.4,4528.613045,Europe
+Bosnia and Herzegovina,2005,Male,11.1,29.8,6453.186632,Europe
+Bosnia and Herzegovina,2005,Female,2.6,29.8,6453.186632,Europe
+Bosnia and Herzegovina,2010,Male,7.5,27.2,9314.886031,Europe
+Bosnia and Herzegovina,2010,Female,2,27.2,9314.886031,Europe
+Bosnia and Herzegovina,2015,Male,7.1,26.3,11526.42439,Europe
+Bosnia and Herzegovina,2015,Female,1.9,26.3,11526.42439,Europe
+Botswana,2000,Male,23.9,15.9,8251.81945,Africa
+Botswana,2000,Female,7.7,15.9,8251.81945,Africa
+Botswana,2005,Male,23.2,20.7,10313.61119,Africa
+Botswana,2005,Female,7.7,20.7,10313.61119,Africa
+Botswana,2010,Male,20.7,17.9,13064.46624,Africa
+Botswana,2010,Female,6.9,17.9,13064.46624,Africa
+Botswana,2015,Male,19.5,17.5,16352.5457,Africa
+Botswana,2015,Female,6.2,17.5,16352.5457,Africa
+Brazil,2000,Male,9.5,13.9,9012.764018,South America
+Brazil,2000,Female,2.2,13.9,9012.764018,South America
+Brazil,2005,Male,10.1,9.3,10951.27478,South America
+Brazil,2005,Female,2.6,9.3,10951.27478,South America
+Brazil,2010,Male,9.4,8.4,14244.97879,South America
+Brazil,2010,Female,2.7,8.4,14244.97879,South America
+Brazil,2015,Male,9.6,8.4,15617.32128,South America
+Brazil,2015,Female,2.7,8.4,15617.32128,South America
+Brunei Darussalam,2000,Male,1.3,5.6,65034.83466,Asia
+Brunei Darussalam,2000,Female,0.9,5.6,65034.83466,Asia
+Brunei Darussalam,2005,Male,2.4,5.9,73873.29024,Asia
+Brunei Darussalam,2005,Female,1.1,5.9,73873.29024,Asia
+Brunei Darussalam,2010,Male,0.9,6.2,78923.39047,Asia
+Brunei Darussalam,2010,Female,0.3,6.2,78923.39047,Asia
+Brunei Darussalam,2015,Male,1.4,6.8,79439.06245,Asia
+Brunei Darussalam,2015,Female,1.3,6.8,79439.06245,Asia
+Bulgaria,2000,Male,24.4,16.2,6374.473431,Europe
+Bulgaria,2000,Female,7.8,16.2,6374.473431,Europe
+Bulgaria,2005,Male,19.9,10.1,10275.07,Europe
+Bulgaria,2005,Female,5.6,10.1,10275.07,Europe
+Bulgaria,2010,Male,18,10.3,14948.59,Europe
+Bulgaria,2010,Female,4.9,10.3,14948.59,Europe
+Bulgaria,2015,Male,18.3,9.1,18115.24,Europe
+Bulgaria,2015,Female,4.8,9.1,18115.24,Europe
+Burkina Faso,2000,Male,25.9,2.6,852.389,Africa
+Burkina Faso,2000,Female,8.5,2.6,852.389,Africa
+Burkina Faso,2005,Male,25,4,1127.559,Africa
+Burkina Faso,2005,Female,8.8,4,1127.559,Africa
+Burkina Faso,2010,Male,24.9,4.7,1394.585,Africa
+Burkina Faso,2010,Female,9.4,4.7,1394.585,Africa
+Burkina Faso,2015,Male,25.1,6.5,1699.88,Africa
+Burkina Faso,2015,Female,10.1,6.5,1699.88,Africa
+Burundi,2000,Male,20.3,1.7,597.7182,Africa
+Burundi,2000,Female,6.2,1.7,597.7182,Africa
+Burundi,2005,Male,21.7,1.7,644.7866,Africa
+Burundi,2005,Female,6.9,1.7,644.7866,Africa
+Burundi,2010,Male,21.5,1.6,748.3807,Africa
+Burundi,2010,Female,7,1.6,748.3807,Africa
+Burundi,2015,Male,20.3,1.6,796.9608,Africa
+Burundi,2015,Female,6.3,1.6,796.9608,Africa
+Cabo Verde,2000,Male,22.6,11.5,3039.919,Africa
+Cabo Verde,2000,Female,8.9,11.5,3039.919,Africa
+Cabo Verde,2005,Male,18.7,11.2,4134.498,Africa
+Cabo Verde,2005,Female,7.8,11.2,4134.498,Africa
+Cabo Verde,2010,Male,18.8,10.7,5710.344,Africa
+Cabo Verde,2010,Female,7.9,10.7,5710.344,Africa
+Cabo Verde,2015,Male,18.5,10.3,6302.494,Africa
+Cabo Verde,2015,Female,7,10.3,6302.494,Africa
+Cambodia,2000,Male,18.2,2.5,1090.632,Asia
+Cambodia,2000,Female,10.5,2.5,1090.632,Asia
+Cambodia,2005,Male,17.9,2,1753.442,Asia
+Cambodia,2005,Female,9.1,2,1753.442,Asia
+Cambodia,2010,Male,17.2,0.4,2471.891,Asia
+Cambodia,2010,Female,8.7,0.4,2471.891,Asia
+Cambodia,2015,Male,17.9,0.2,3504.418,Asia
+Cambodia,2015,Female,8.5,0.2,3504.418,Asia
+Cameroon,2000,Male,23.8,7.5,2063.824,Africa
+Cameroon,2000,Female,7.7,7.5,2063.824,Africa
+Cameroon,2005,Male,26.4,4.4,2519.09,Africa
+Cameroon,2005,Female,8.1,4.4,2519.09,Africa
+Cameroon,2010,Male,27.2,4.1,2870.563,Africa
+Cameroon,2010,Female,8.6,4.1,2870.563,Africa
+Cameroon,2015,Male,27.1,4.3,3502.408,Africa
+Cameroon,2015,Female,8.5,4.3,3502.408,Africa
+Canada,2000,Male,17.4,6.8,29185.36,North America
+Canada,2000,Female,5.1,6.8,29185.36,North America
+Canada,2005,Male,16.6,6.8,36134.6,North America
+Canada,2005,Female,5.5,6.8,36134.6,North America
+Canada,2010,Male,16.1,8.1,40027.24,North America
+Canada,2010,Female,5.8,8.1,40027.24,North America
+Canada,2015,Male,15.3,6.9,44647.36,North America
+Canada,2015,Female,5.6,6.9,44647.36,North America
+Central African Republic,2000,Male,25.8,6.2,649.459,Africa
+Central African Republic,2000,Female,7.8,6.2,649.459,Africa
+Central African Republic,2005,Male,29.6,6.2,726.8664,Africa
+Central African Republic,2005,Female,8.9,6.2,726.8664,Africa
+Central African Republic,2010,Male,32.1,6.3,870.0441,Africa
+Central African Republic,2010,Female,10.1,6.3,870.0441,Africa
+Central African Republic,2015,Male,30.3,6.4,667.0427,Africa
+Central African Republic,2015,Female,9.3,6.4,667.0427,Africa
+Chad,2000,Male,17.6,5.6,787.2251,Africa
+Chad,2000,Female,6.6,5.6,787.2251,Africa
+Chad,2005,Male,18.7,5.7,1596.836,Africa
+Chad,2005,Female,7,5.7,1596.836,Africa
+Chad,2010,Male,19.8,5.8,1886.251,Africa
+Chad,2010,Female,7.4,5.8,1886.251,Africa
+Chad,2015,Male,20.9,5.7,2180.456,Africa
+Chad,2015,Female,7.9,5.7,2180.456,Africa
+Chile,2000,Male,19.2,9.2,9571.979,South America
+Chile,2000,Female,3.1,9.2,9571.979,South America
+Chile,2005,Male,17.3,8,12774.73,South America
+Chile,2005,Female,3.3,8,12774.73,South America
+Chile,2010,Male,19,8.4,18265.34,South America
+Chile,2010,Female,4.2,8.4,18265.34,South America
+Chile,2015,Male,15.3,6.5,22647.46,South America
+Chile,2015,Female,3.3,6.5,22647.46,South America
+China,2000,Male,10.9,4.5,2933.315,Asia
+China,2000,Female,12.7,4.5,2933.315,Asia
+China,2005,Male,9.1,4.1,5092.56,Asia
+China,2005,Female,10.9,4.1,5092.56,Asia
+China,2010,Male,8.2,4.2,10384.37,Asia
+China,2010,Female,10,4.2,10384.37,Asia
+China,2015,Male,7.7,4.6,14450.09,Asia
+China,2015,Female,9.5,4.6,14450.09,Asia
+Colombia,2000,Male,10,20.5,6585.334,South America
+Colombia,2000,Female,2.7,20.5,6585.334,South America
+Colombia,2005,Male,9.5,11.9,8248.355,South America
+Colombia,2005,Female,2.4,11.9,8248.355,South America
+Colombia,2010,Male,11.6,10.9,10680,South America
+Colombia,2010,Female,2.2,10.9,10680,South America
+Colombia,2015,Male,10.1,8.2,13827.67,South America
+Colombia,2015,Female,2.1,8.2,13827.67,South America
+Comoros,2000,Male,18.1,4.6,1173.818,Africa
+Comoros,2000,Female,7.9,4.6,1173.818,Africa
+Comoros,2005,Male,18.4,4.5,1310.265,Africa
+Comoros,2005,Female,8.9,4.5,1310.265,Africa
+Comoros,2010,Male,17.9,4.4,1383.93,Africa
+Comoros,2010,Female,8.5,4.4,1383.93,Africa
+Comoros,2015,Male,17.2,4.4,1504.717,Africa
+Comoros,2015,Female,8,4.4,1504.717,Africa
+Congo,2000,Male,25.8,20.1,0,Africa
+Congo,2000,Female,8.5,20.1,0,Africa
+Congo,2005,Male,25.9,19.8,0,Africa
+Congo,2005,Female,8.8,19.8,0,Africa
+Congo,2010,Male,20.6,14.6,0,Africa
+Congo,2010,Female,7,14.6,0,Africa
+Congo,2015,Male,17.9,10,0,Africa
+Congo,2015,Female,6.1,10,0,Africa
+Congo (Democratic Republic of the),2000,Male,20.3,3.6,419.4639,Africa
+Congo (Democratic Republic of the),2000,Female,7.7,3.6,419.4639,Africa
+Congo (Democratic Republic of the),2005,Male,18.2,3.7,488.3881,Africa
+Congo (Democratic Republic of the),2005,Female,7.2,3.7,488.3881,Africa
+Congo (Democratic Republic of the),2010,Male,17.1,3.7,597.077,Africa
+Congo (Democratic Republic of the),2010,Female,7.1,3.7,597.077,Africa
+Congo (Democratic Republic of the),2015,Male,17.3,3.7,798.7426554,Africa
+Congo (Democratic Republic of the),2015,Female,7.3,3.7,798.7427,Africa
+Costa Rica,2000,Male,13.8,5.1,7829.813,Central America
+Costa Rica,2000,Female,1.8,5.1,7829.813,Central America
+Costa Rica,2005,Male,13.5,6.6,9817.001,Central America
+Costa Rica,2005,Female,2.3,6.6,9817.001,Central America
+Costa Rica,2010,Male,14.2,8.9,12737.02,Central America
+Costa Rica,2010,Female,2.2,8.9,12737.02,Central America
+Costa Rica,2015,Male,12.6,9.3,15881.61,Central America
+Costa Rica,2015,Female,2,9.3,15881.61,Central America
+Croatia,2000,Male,27.8,16.1,10753.25,Europe
+Croatia,2000,Female,6.9,16.1,10753.25,Europe
+Croatia,2005,Male,24.3,12.6,14859.36,Europe
+Croatia,2005,Female,7.1,12.6,14859.36,Europe
+Croatia,2010,Male,21.5,11.6,19186.96,Europe
+Croatia,2010,Female,6,11.6,19186.96,Europe
+Croatia,2015,Male,19.2,16.2,22492.07,Europe
+Croatia,2015,Female,5.7,16.2,22492.07,Europe
+Cuba,2000,Male,21.6,5.4,0,Central America
+Cuba,2000,Female,6.6,5.4,0,Central America
+Cuba,2005,Male,17,1.9,0,Central America
+Cuba,2005,Female,5.6,1.9,0,Central America
+Cuba,2010,Male,18.5,2.5,0,Central America
+Cuba,2010,Female,4.8,2.5,0,Central America
+Cuba,2015,Male,17,2.4,0,Central America
+Cuba,2015,Female,4.2,2.4,0,Central America
+Cyprus,2000,Male,2.3,5,21709.16,Europe
+Cyprus,2000,Female,1.2,5,21709.16,Europe
+Cyprus,2005,Male,2.6,5.3,28169.56,Europe
+Cyprus,2005,Female,1.1,5.3,28169.56,Europe
+Cyprus,2010,Male,6.3,6.3,33263.02,Europe
+Cyprus,2010,Female,2,6.3,33263.02,Europe
+Cyprus,2015,Male,6.7,14.9,31523.93,Europe
+Cyprus,2015,Female,1,14.9,31523.93,Europe
+Czechia,2000,Male,22.9,8.8,16188.23,Europe
+Czechia,2000,Female,5.2,8.8,16188.23,Europe
+Czechia,2005,Male,22,7.9,21956.38,Europe
+Czechia,2005,Female,4.4,7.9,21956.38,Europe
+Czechia,2010,Male,20.5,7.3,27694.4,Europe
+Czechia,2010,Female,3.8,7.3,27694.4,Europe
+Czechia,2015,Male,17.7,5.1,33468.73,Europe
+Czechia,2015,Female,3.9,5.1,33468.73,Europe
+Côte d'Ivoire,2000,Male,32.2,3.9,0,Africa
+Côte d'Ivoire,2000,Female,10.7,3.9,0,Africa
+Côte d'Ivoire,2005,Male,36.5,3.5,0,Africa
+Côte d'Ivoire,2005,Female,12.4,3.5,0,Africa
+Côte d'Ivoire,2010,Male,37.9,3.1,0,Africa
+Côte d'Ivoire,2010,Female,13.5,3.1,0,Africa
+Côte d'Ivoire,2015,Male,38.8,2.7,0,Africa
+Côte d'Ivoire,2015,Female,14.4,2.7,0,Africa
+Denmark,2000,Male,18.7,4.5,28657.54,Europe
+Denmark,2000,Female,6.3,4.5,28657.54,Europe
+Denmark,2005,Male,16.1,4.8,34150.16,Europe
+Denmark,2005,Female,6.1,4.8,34150.16,Europe
+Denmark,2010,Male,12.7,7.5,43041.54,Europe
+Denmark,2010,Female,4.9,7.5,43041.54,Europe
+Denmark,2015,Male,13.5,6.2,48674.84,Europe
+Denmark,2015,Female,4.7,6.2,48674.84,Europe
+Djibouti,2000,Male,15.9,6.6,1689.299,Africa
+Djibouti,2000,Female,7.9,6.6,1689.299,Africa
+Djibouti,2005,Male,15.7,6.4,2012.6,Africa
+Djibouti,2005,Female,7.3,6.4,2012.6,Africa
+Djibouti,2010,Male,14.2,6.2,2581.417,Africa
+Djibouti,2010,Female,6.4,6.2,2581.417,Africa
+Djibouti,2015,Male,15.4,5.9,3342.901,Africa
+Djibouti,2015,Female,6.5,5.9,3342.901,Africa
+Dominican Republic,2000,Male,13.5,7,6312.26,Central America
+Dominican Republic,2000,Female,2.7,7,6312.26,Central America
+Dominican Republic,2005,Male,17,6.5,7816.303,Central America
+Dominican Republic,2005,Female,3,6.5,7816.303,Central America
+Dominican Republic,2010,Male,12.5,5,10898.52,Central America
+Dominican Republic,2010,Female,2.4,5,10898.52,Central America
+Dominican Republic,2015,Male,12.2,5.9,14238.86,Central America
+Dominican Republic,2015,Female,2.6,5.9,14238.86,Central America
+Ecuador,2000,Male,9.8,9,5855.635,South America
+Ecuador,2000,Female,3.7,9,5855.635,South America
+Ecuador,2005,Male,14.8,7.7,7664.289,South America
+Ecuador,2005,Female,4.7,7.7,7664.289,South America
+Ecuador,2010,Male,13.7,4.1,9163.159,South America
+Ecuador,2010,Female,4.5,4.1,9163.159,South America
+Ecuador,2015,Male,11.5,3.6,11446.37,South America
+Ecuador,2015,Female,3.7,3.6,11446.37,South America
+Egypt,2000,Male,5.1,9,5856.222,Africa
+Egypt,2000,Female,2.4,9,5856.222,Africa
+Egypt,2005,Male,4.5,11.2,7124.49,Africa
+Egypt,2005,Female,2.2,11.2,7124.49,Africa
+Egypt,2010,Male,4.2,11.9,9658.065215,Africa
+Egypt,2010,Female,1.9,11.9,9658.065,Africa
+Egypt,2015,Male,4.5,13.1,10750.46,Africa
+Egypt,2015,Female,1.8,13.1,10750.46,Africa
+El Salvador,2000,Male,27.3,7,5044.131,Central America
+El Salvador,2000,Female,7.5,7,5044.131,Central America
+El Salvador,2005,Male,26.1,7.2,6193.97,Central America
+El Salvador,2005,Female,6.1,7.2,6193.97,Central America
+El Salvador,2010,Male,21.6,4.9,7152.205,Central America
+El Salvador,2010,Female,5,4.9,7152.205,Central America
+El Salvador,2015,Male,19.2,4,8354.029,Central America
+El Salvador,2015,Female,4.4,4,8354.029,Central America
+Equatorial Guinea,2000,Male,41.6,5.8,8554.628,Africa
+Equatorial Guinea,2000,Female,12.8,5.8,8554.628,Africa
+Equatorial Guinea,2005,Male,38.3,5.8,27933.47,Africa
+Equatorial Guinea,2005,Female,13.4,5.8,27933.47,Africa
+Equatorial Guinea,2010,Male,41.1,5.6,33041.19,Africa
+Equatorial Guinea,2010,Female,13.7,5.6,33041.19,Africa
+Equatorial Guinea,2015,Male,39.1,5.5,29361.07,Africa
+Equatorial Guinea,2015,Female,13.2,5.5,29361.07,Africa
+Eritrea,2000,Male,31.4,7,1330.94,Africa
+Eritrea,2000,Female,8,7,1330.94,Africa
+Eritrea,2005,Male,29.8,7,1450.333,Africa
+Eritrea,2005,Female,7.1,7,1450.333,Africa
+Eritrea,2010,Male,26.9,6.8,1387.715,Africa
+Eritrea,2010,Female,5.9,6.8,1387.715,Africa
+Eritrea,2015,Male,23.4,6.6,0,Africa
+Eritrea,2015,Female,5.4,6.6,0,Africa
+Estonia,2000,Male,44.7,13.4,9419.757,Europe
+Estonia,2000,Female,9.8,13.4,9419.757,Europe
+Estonia,2005,Male,35.5,8,16516.14,Europe
+Estonia,2005,Female,6,8,16516.14,Europe
+Estonia,2010,Male,26.6,16.7,21602.74,Europe
+Estonia,2010,Female,4.7,16.7,21602.74,Europe
+Estonia,2015,Male,26.4,6.2,28688.97,Europe
+Estonia,2015,Female,4.8,6.2,28688.97,Europe
+Eswatini (Kingdom of),2000,Male,32.6,22.3,0,Africa
+Eswatini (Kingdom of),2000,Female,11.7,22.3,0,Africa
+Eswatini (Kingdom of),2005,Male,31.8,22.1,0,Africa
+Eswatini (Kingdom of),2005,Female,9.9,22.1,0,Africa
+Eswatini (Kingdom of),2010,Male,28.5,27.8,0,Africa
+Eswatini (Kingdom of),2010,Female,9.8,27.8,0,Africa
+Eswatini (Kingdom of),2015,Male,27.3,26.3,0,Africa
+Eswatini (Kingdom of),2015,Female,9.6,26.3,0,Africa
+Ethiopia,2000,Male,23.2,8.2,490.0364,Africa
+Ethiopia,2000,Female,6,8.2,490.0364,Africa
+Ethiopia,2005,Male,20.6,5.4,652.1061,Africa
+Ethiopia,2005,Female,5.4,5.4,652.1061,Africa
+Ethiopia,2010,Male,20.4,5.2,1052.104,Africa
+Ethiopia,2010,Female,5.6,5.2,1052.104,Africa
+Ethiopia,2015,Male,20.7,5,1632.552,Africa
+Ethiopia,2015,Female,5.6,5,1632.552,Africa
+Fiji,2000,Male,13.6,7.5,5289.882,Oceania
+Fiji,2000,Female,5.7,7.5,5289.882,Oceania
+Fiji,2005,Male,14.2,4.6,6612.748,Oceania
+Fiji,2005,Female,5.4,4.6,6612.748,Oceania
+Fiji,2010,Male,14.6,8.9,7203.366,Oceania
+Fiji,2010,Female,4.8,8.9,7203.366,Oceania
+Fiji,2015,Male,13.5,6.1,9027.542,Oceania
+Fiji,2015,Female,4.3,6.1,9027.542,Oceania
+Finland,2000,Male,33.2,11.1,26748.63,Europe
+Finland,2000,Female,10.4,11.1,26748.63,Europe
+Finland,2005,Male,25.4,8.4,31993.41,Europe
+Finland,2005,Female,9,8.4,31993.41,Europe
+Finland,2010,Male,25.3,8.4,38775.17,Europe
+Finland,2010,Female,7.8,8.4,38775.17,Europe
+Finland,2015,Male,21.4,9.4,42071.19,Europe
+Finland,2015,Female,7.2,9.4,42071.19,Europe
+France,2000,Male,23.9,10.2,26208.64,Europe
+France,2000,Female,8.3,10.2,26208.64,Europe
+France,2005,Male,22.4,8.5,30603.46482,Europe
+France,2005,Female,7.9,8.5,30603.46,Europe
+France,2010,Male,21.3,8.9,35992.51,Europe
+France,2010,Female,7.2,8.9,35992.51,Europe
+France,2015,Male,19,10.4,40468.51,Europe
+France,2015,Female,5.9,10.4,40468.51,Europe
+Gabon,2000,Male,17.8,17.2,14094.92,Africa
+Gabon,2000,Female,7,17.2,14094.92,Africa
+Gabon,2005,Male,16.4,16.9,14961.59,Africa
+Gabon,2005,Female,6.8,16.9,14961.59,Africa
+Gabon,2010,Male,18.1,20.4,15045.17,Africa
+Gabon,2010,Female,7.3,20.4,15045.17,Africa
+Gabon,2015,Male,18.1,20.2,17928.7,Africa
+Gabon,2015,Female,7,20.2,17928.7,Africa
+Gambia,2000,Male,18.1,9.4,1228.236,Africa
+Gambia,2000,Female,8.7,9.4,1228.236,Africa
+Gambia,2005,Male,16.7,9.4,1365.182,Africa
+Gambia,2005,Female,8.1,9.4,1365.182,Africa
+Gambia,2010,Male,15.7,9.4,1610.968,Africa
+Gambia,2010,Female,7.6,9.4,1610.968,Africa
+Gambia,2015,Male,15.5,9.4,1669.732,Africa
+Gambia,2015,Female,7.7,9.4,1669.732,Africa
+Georgia,2000,Male,9.7,10.8,2587.028,Middle East
+Georgia,2000,Female,1.7,10.8,2587.028,Middle East
+Georgia,2005,Male,7.7,13.8,4364.787,Middle East
+Georgia,2005,Female,1.5,13.8,4364.787,Middle East
+Georgia,2010,Male,9.3,16.3,6597.569,Middle East
+Georgia,2010,Female,1.5,16.3,6597.569,Middle East
+Georgia,2015,Male,9.7,12,9610.543,Middle East
+Georgia,2015,Female,1.5,12,9610.543,Middle East
+Germany,2000,Male,17.9,7.9,27293.77,Europe
+Germany,2000,Female,5.2,7.9,27293.77,Europe
+Germany,2005,Male,15.8,11.2,31968.47,Europe
+Germany,2005,Female,4.7,11.2,31968.47,Europe
+Germany,2010,Male,15.2,7,39225.6,Europe
+Germany,2010,Female,4.5,7,39225.6,Europe
+Germany,2015,Male,13.9,4.6,47810.84,Europe
+Germany,2015,Female,4.5,4.6,47810.84,Europe
+Ghana,2000,Male,15.4,10.4,1790.593,Africa
+Ghana,2000,Female,3.6,10.4,1790.593,Africa
+Ghana,2005,Male,16.2,4.7,2260.994,Africa
+Ghana,2005,Female,3.7,4.7,2260.994,Africa
+Ghana,2010,Male,16.5,5.3,2997.526,Africa
+Ghana,2010,Female,3.9,5.3,2997.526,Africa
+Ghana,2015,Male,17.8,2.2,4184.578,Africa
+Ghana,2015,Female,3.9,2.2,4184.578,Africa
+Greece,2000,Male,5,11.3,19515.79,Europe
+Greece,2000,Female,1.3,11.3,19515.79,Europe
+Greece,2005,Male,5.1,10,25577.52,Europe
+Greece,2005,Female,1.3,10,25577.52,Europe
+Greece,2010,Male,5.1,12.7,28175.86,Europe
+Greece,2010,Female,1.2,12.7,28175.86,Europe
+Greece,2015,Male,5.4,24.9,26697.25,Europe
+Greece,2015,Female,1.2,24.9,26697.25,Europe
+Guatemala,2000,Male,7.4,1.4,4811.826,Central America
+Guatemala,2000,Female,1.6,1.4,4811.826,Central America
+Guatemala,2005,Male,7,2.5,5582.009,Central America
+Guatemala,2005,Female,1.6,2.5,5582.009,Central America
+Guatemala,2010,Male,5.8,3.7,6578.247,Central America
+Guatemala,2010,Female,1.4,3.7,6578.247,Central America
+Guatemala,2015,Male,4.2,2.7,7765.757,Central America
+Guatemala,2015,Female,1.5,2.7,7765.757,Central America
+Guinea,2000,Male,13.7,4.6,1126.022,Africa
+Guinea,2000,Female,6.9,4.6,1126.022,Africa
+Guinea,2005,Male,15.8,4.6,1339.163,Africa
+Guinea,2005,Female,6.9,4.6,1339.163,Africa
+Guinea,2010,Male,16.4,4.6,1543.514,Africa
+Guinea,2010,Female,7.1,4.6,1543.514,Africa
+Guinea,2015,Male,15.5,4.5,1866.775,Africa
+Guinea,2015,Female,7.5,4.5,1866.775,Africa
+Guinea-Bissau,2000,Male,14.8,6.5,1080.622,Africa
+Guinea-Bissau,2000,Female,7.6,6.5,1080.622,Africa
+Guinea-Bissau,2005,Male,14.5,6.5,1191.6,Africa
+Guinea-Bissau,2005,Female,6.9,6.5,1191.6,Africa
+Guinea-Bissau,2010,Male,14.7,6.3,1372.035,Africa
+Guinea-Bissau,2010,Female,6.2,6.3,1372.035,Africa
+Guinea-Bissau,2015,Male,13.6,6.2,1540.293,Africa
+Guinea-Bissau,2015,Female,5.8,6.2,1540.293,Africa
+Guyana,2000,Male,41.2,13.1,3584.189,South America
+Guyana,2000,Female,11.7,13.1,3584.189,South America
+Guyana,2005,Male,44.4,11.8,4183.795,South America
+Guyana,2005,Female,13.3,11.8,4183.795,South America
+Guyana,2010,Male,43.4,10.9,5729.563,South America
+Guyana,2010,Female,14.4,10.9,5729.563,South America
+Guyana,2015,Male,46,11.9,7533.072,South America
+Guyana,2015,Female,15.5,11.9,7533.072,South America
+Haiti,2000,Male,15.5,8.6,1378.692,Central America
+Haiti,2000,Female,4.8,8.6,1378.692,Central America
+Haiti,2005,Male,15,15,1390.758,Central America
+Haiti,2005,Female,4.4,15,1390.758,Central America
+Haiti,2010,Male,15.9,16,1471.649,Central America
+Haiti,2010,Female,5.1,16,1471.649,Central America
+Haiti,2015,Male,17.7,14.1,1758.334,Central America
+Haiti,2015,Female,6,14.1,1758.334,Central America
+Honduras,2000,Male,6.3,3.6,2638.272,Central America
+Honduras,2000,Female,2.2,3.6,2638.272,Central America
+Honduras,2005,Male,7.1,4,3291.932,Central America
+Honduras,2005,Female,2.9,4,3291.932,Central America
+Honduras,2010,Male,6.7,4.1,3890.851,Central America
+Honduras,2010,Female,2.9,4.1,3890.851,Central America
+Honduras,2015,Male,5.8,4.6,4590.818,Central America
+Honduras,2015,Female,2.6,4.6,4590.818,Central America
+Hungary,2000,Male,43.5,6.6,11876.08,Europe
+Hungary,2000,Female,10.6,6.6,11876.08,Europe
+Hungary,2005,Male,34.9,7.2,17081.77,Europe
+Hungary,2005,Female,8.1,7.2,17081.77,Europe
+Hungary,2010,Male,32.7,11.2,21555.86,Europe
+Hungary,2010,Female,7.5,11.2,21555.86,Europe
+Hungary,2015,Male,25.8,6.8,26147.54,Europe
+Hungary,2015,Female,6.9,6.8,26147.54,Europe
+Iceland,2000,Male,22,1.9,29515.91,Europe
+Iceland,2000,Female,5.7,1.9,29515.91,Europe
+Iceland,2005,Male,13.7,2.6,36964.53,Europe
+Iceland,2005,Female,7.1,2.6,36964.53,Europe
+Iceland,2010,Male,18.6,7.6,38535.33,Europe
+Iceland,2010,Female,5.1,7.6,38535.33,Europe
+Iceland,2015,Male,17.2,4,47499.63,Europe
+Iceland,2015,Female,6.3,4,47499.63,Europe
+India,2000,Male,21.5,4.3,1977.645,Asia
+India,2000,Female,16.8,4.3,1977.645,Asia
+India,2005,Male,20.3,4.4,2830.405,Asia
+India,2005,Female,16.6,4.4,2830.405,Asia
+India,2010,Male,19.5,3.5,4315.596,Asia
+India,2010,Female,16,3.5,4315.596,Asia
+India,2015,Male,17.9,3.5,6127.299,Asia
+India,2015,Female,14.2,3.5,6127.299,Asia
+Indonesia,2000,Male,4.8,6.1,4601.849,Asia
+Indonesia,2000,Female,1.9,6.1,4601.849,Asia
+Indonesia,2005,Male,5,7.7,6076.578,Asia
+Indonesia,2005,Female,1.9,7.7,6076.578,Asia
+Indonesia,2010,Male,4.8,5.6,8262.899,Asia
+Indonesia,2010,Female,1.9,5.6,8262.899,Asia
+Indonesia,2015,Male,4.5,4.5,11040.19,Asia
+Indonesia,2015,Female,1.6,4.5,11040.19,Asia
+Iran (Islamic Republic of),2000,Male,10.2,14.6,10182.98,Middle East
+Iran (Islamic Republic of),2000,Female,7.8,14.6,10182.98,Middle East
+Iran (Islamic Republic of),2005,Male,10.4,12.1,13904.6,Middle East
+Iran (Islamic Republic of),2005,Female,6.4,12.1,13904.6,Middle East
+Iran (Islamic Republic of),2010,Male,6.9,13.5,18192.11,Middle East
+Iran (Islamic Republic of),2010,Female,3.9,13.5,18192.11,Middle East
+Iran (Islamic Republic of),2015,Male,4.2,11.1,17571.22,Middle East
+Iran (Islamic Republic of),2015,Female,2.9,11.1,17571.22,Middle East
+Iraq,2000,Male,4.9,18,9651.69,Middle East
+Iraq,2000,Female,2.9,18,9651.69,Middle East
+Iraq,2005,Male,4.1,18,9701.238,Middle East
+Iraq,2005,Female,2.8,18,9701.238,Middle East
+Iraq,2010,Male,4.3,11.2,12460.34,Middle East
+Iraq,2010,Female,3,11.2,12460.34,Middle East
+Iraq,2015,Male,4.8,7.7,15897.24,Middle East
+Iraq,2015,Female,3.5,7.7,15897.24,Middle East
+Ireland,2000,Male,19.5,4.3,30173.2,Europe
+Ireland,2000,Female,4.3,4.3,30173.2,Europe
+Ireland,2005,Male,17,4.3,40438.1,Europe
+Ireland,2005,Female,4.3,4.3,40438.1,Europe
+Ireland,2010,Male,17,13.9,43298.69,Europe
+Ireland,2010,Female,4.8,13.9,43298.69,Europe
+Ireland,2015,Male,18,9.4,69394.42,Europe
+Ireland,2015,Female,4.2,9.4,69394.42,Europe
+Israel,2000,Male,12,11.1,24935.35,Middle East
+Israel,2000,Female,2.9,11.1,24935.35,Middle East
+Israel,2005,Male,10.7,11.3,24819.95,Middle East
+Israel,2005,Female,3.7,11.3,24819.95,Middle East
+Israel,2010,Male,11.5,8.5,28828.32,Middle East
+Israel,2010,Female,2.4,8.5,28828.32,Middle East
+Israel,2015,Male,8.7,5.3,35888.88,Middle East
+Israel,2015,Female,2.3,5.3,35888.88,Middle East
+Italy,2000,Male,8.7,10.8,27022.86,Europe
+Italy,2000,Female,2.8,10.8,27022.86,Europe
+Italy,2005,Male,8.2,7.7,30051.77,Europe
+Italy,2005,Female,2.4,7.7,30051.77,Europe
+Italy,2010,Male,8,8.4,35042.2,Europe
+Italy,2010,Female,2.1,8.4,35042.2,Europe
+Italy,2015,Male,8.7,11.9,36640.12,Europe
+Italy,2015,Female,2.2,11.9,36640.12,Europe
+Japan,2000,Male,27.5,4.7,26838.87,Asia
+Japan,2000,Female,9.8,4.7,26838.87,Asia
+Japan,2005,Male,28.5,4.4,31663.45,Asia
+Japan,2005,Female,10,4.4,31663.45,Asia
+Japan,2010,Male,27.7,5.1,35000.32,Asia
+Japan,2010,Female,10.4,5.1,35000.32,Asia
+Japan,2015,Male,21.7,3.3,40717.32,Asia
+Japan,2015,Female,9.2,3.3,40717.32,Asia
+Jordan,2000,Male,6.7,13.7,5734.639,Europe
+Jordan,2000,Female,2.8,13.7,5734.639,Europe
+Jordan,2005,Male,6.2,14.8,7835.088,Europe
+Jordan,2005,Female,2.4,14.8,7835.088,Europe
+Jordan,2010,Male,5.5,12.5,9281.147,Europe
+Jordan,2010,Female,2.5,12.5,9281.147,Europe
+Jordan,2015,Male,5.3,13.1,9041.818,Europe
+Jordan,2015,Female,2.4,13.1,9041.818,Europe
+"Korea, Republic of",2000,Male,20.8,4.4,18083.08,Asia
+"Korea, Republic of",2000,Female,8.5,4.4,18083.08,Asia
+"Korea, Republic of",2005,Male,34.7,3.7,24196.42,Asia
+"Korea, Republic of",2005,Female,15.4,3.7,24196.42,Asia
+"Korea, Republic of",2010,Male,39.3,3.7,30376.87,Asia
+"Korea, Republic of",2010,Female,18.4,3.7,30376.87,Asia
+"Korea, Republic of",2015,Male,36.1,3.6,35203.73,Asia
+"Korea, Republic of",2015,Female,13.4,3.6,35203.73,Asia
+Lithuania,2000,Male,80,0.8,8456.322,Europe
+Lithuania,2000,Female,15.3,0.8,8456.322,Europe
+Lithuania,2005,Male,64.2,2,14526.13,Europe
+Lithuania,2005,Female,10.4,2,14526.13,Europe
+Lithuania,2010,Male,50.4,1.8,20110.34,Europe
+Lithuania,2010,Female,8.5,1.8,20110.34,Europe
+Lithuania,2015,Male,47.1,2.2,28783.67,Europe
+Lithuania,2015,Female,8.1,2.2,28783.67,Europe
+Malaysia,2000,Male,11.2,3,12927.75,Asia
+Malaysia,2000,Female,4.8,3,12927.75,Asia
+Malaysia,2005,Male,9.6,3.5,16540.78,Asia
+Malaysia,2005,Female,4.1,3.5,16540.78,Asia
+Malaysia,2010,Male,9.2,3.3,20680.3,Asia
+Malaysia,2010,Female,3.7,3.3,20680.3,Asia
+Malaysia,2015,Male,9.5,3.1,26623.33,Asia
+Malaysia,2015,Female,3.4,3.1,26623.33,Asia
+Malta,2000,Male,9.1,6.3,19422.71,Europe
+Malta,2000,Female,2.4,6.3,19422.71,Europe
+Malta,2005,Male,7,6.9,22232.58,Europe
+Malta,2005,Female,2.1,6.9,22232.57537,Europe
+Malta,2010,Male,12,6.9,27836.06,Europe
+Malta,2010,Female,1.3,6.9,27836.06,Europe
+Malta,2015,Male,8.2,5.4,35873.82,Europe
+Malta,2015,Female,2,5.4,35873.82,Europe
+Moldova (Republic of),2000,Male,30.5,8.5,1839.713,Europe
+Moldova (Republic of),2000,Female,4.2,8.5,1839.713,Europe
+Moldova (Republic of),2005,Male,31.7,7.3,2945.08,Europe
+Moldova (Republic of),2005,Female,5.4,7.3,2945.08,Europe
+Moldova (Republic of),2010,Male,31.6,7.5,3831.749,Europe
+Moldova (Republic of),2010,Female,5.3,7.5,3831.749187,Europe
+Moldova (Republic of),2015,Male,22.3,3.7,5054.682,Europe
+Moldova (Republic of),2015,Female,3.9,3.7,5054.682,Europe
+Mozambique,2000,Male,23.2,21.9,445.1503,Africa
+Mozambique,2000,Female,7.5,21.9,445.1503,Africa
+Mozambique,2005,Male,21.8,21.7,661.0487,Africa
+Mozambique,2005,Female,6.9,21.7,661.0487,Africa
+Mozambique,2010,Male,21.9,22.2,899.1987,Africa
+Mozambique,2010,Female,6.8,22.2,899.1987,Africa
+Mozambique,2015,Male,20.5,25.3,1190.752,Africa
+Mozambique,2015,Female,6.7,25.3,1190.752,Africa
+Netherlands,2000,Male,11.3,2.7,31591.93,Europe
+Netherlands,2000,Female,5.2,2.7,31591.93,Europe
+Netherlands,2005,Male,11.6,4.7,37265.35,Europe
+Netherlands,2005,Female,5.1,4.7,37265.35,Europe
+Netherlands,2010,Male,11.5,4.5,44542.84,Europe
+Netherlands,2010,Female,4.7,4.5,44542.84,Europe
+Netherlands,2015,Male,12.9,6.9,49527.67,Europe
+Netherlands,2015,Female,6,6.9,49527.67,Europe
+Nigeria,2000,Male,20.4,4.4,2257.525,Africa
+Nigeria,2000,Female,9.4,4.4,2257.525,Africa
+Nigeria,2005,Male,20.1,4.3,3694.486,Africa
+Nigeria,2005,Female,9.1,4.3,3694.486,Africa
+Nigeria,2010,Male,20.3,3.9,5045.978,Africa
+Nigeria,2010,Female,9.5,3.9,5045.978,Africa
+Nigeria,2015,Male,20.3,4.3,6038.462,Africa
+Nigeria,2015,Female,9.9,4.3,6038.462,Africa
+Panama,2000,Male,12.6,13.5,36950.49,Central America
+Panama,2000,Female,1.6,13.5,36950.49,Central America
+Panama,2005,Male,12.9,10.3,47772.43,Central America
+Panama,2005,Female,2,10.3,47772.43,Central America
+Panama,2010,Male,10.4,6.5,58022.03,Central America
+Panama,2010,Female,1.5,6.5,58022.03,Central America
+Panama,2015,Male,10.1,4.5,61722.24,Central America
+Panama,2015,Female,1.1,4.5,61722.24,Central America
+Philippines,2000,Male,4.7,3.7,3348.152,Asia
+Philippines,2000,Female,1.8,3.7,3348.152,Asia
+Philippines,2005,Male,5.2,3.8,4255.16,Asia
+Philippines,2005,Female,1.7,3.8,4255.16,Asia
+Philippines,2010,Male,6.6,3.6,5483.621,Asia
+Philippines,2010,Female,2,3.6,5483.621,Asia
+Philippines,2015,Male,5.8,3,7320.499,Asia
+Philippines,2015,Female,1.9,3,7320.499,Asia
+Romania,2000,Male,19.6,7,10651.21,Europe
+Romania,2000,Female,3.8,7,10651.21,Europe
+Romania,2005,Male,17.8,7.2,13895.92,Europe
+Romania,2005,Female,3.2,7.2,13895.92,Europe
+Romania,2010,Male,19.7,7,21068.85,Europe
+Romania,2010,Female,3.6,7,21068.85,Europe
+Romania,2015,Male,16.4,6.8,26594.76,Europe
+Romania,2015,Female,2.5,6.8,26594.76,Europe
+Russian Federation,2000,Male,63.1,10.6,6825.411,Europe
+Russian Federation,2000,Female,10,10.6,6825.411,Europe
+Russian Federation,2005,Male,52.9,7.2,11822.37,Europe
+Russian Federation,2005,Female,8.8,7.2,11822.37,Europe
+Russian Federation,2010,Male,40,7.4,20497.93,Europe
+Russian Federation,2010,Female,7,7.4,20497.93,Europe
+Russian Federation,2015,Male,32.2,5.6,24691.83,Europe
+Russian Federation,2015,Female,5.6,5.6,24691.83,Europe
+Saint Vincent and the Grenadines,2000,Male,13.9,19.6,0,Central America
+Saint Vincent and the Grenadines,2000,Female,0.7,19.6,0,Central America
+Saint Vincent and the Grenadines,2005,Male,15.1,18.9,0,Central America
+Saint Vincent and the Grenadines,2005,Female,3.1,18.9,0,Central America
+Saint Vincent and the Grenadines,2010,Male,6.4,18.8,0,Central America
+Saint Vincent and the Grenadines,2010,Female,0.8,18.8,0,Central America
+Saint Vincent and the Grenadines,2015,Male,4.9,18,0,Central America
+Saint Vincent and the Grenadines,2015,Female,0.4,18,0,Central America
+Senegal,2000,Male,23.5,5.7,1514.344,Africa
+Senegal,2000,Female,7.1,5.7,1514.344,Africa
+Senegal,2005,Male,23.7,9,1876.662,Africa
+Senegal,2005,Female,7.2,9,1876.662,Africa
+Senegal,2010,Male,21.6,10.2,2139.816,Africa
+Senegal,2010,Female,6.5,10.2,2139.816,Africa
+Senegal,2015,Male,20.2,4.9,2442.643,Africa
+Senegal,2015,Female,5.2,4.9,2442.643,Africa
+Serbia,2000,Male,26.2,12.6,5725.249,Europe
+Serbia,2000,Female,8.6,12.6,5725.249,Europe
+Serbia,2005,Male,23,20.9,8707.039,Europe
+Serbia,2005,Female,7.7,20.9,8707.039,Europe
+Serbia,2010,Male,19.1,19.2,12087.1,Europe
+Serbia,2010,Female,5.3,19.2,12087.1,Europe
+Serbia,2015,Male,19.5,17.9,13896.12,Europe
+Serbia,2015,Female,5.5,17.9,13896.12,Europe
+Sierra Leone,2000,Male,32.8,3.4,723.4657,Africa
+Sierra Leone,2000,Female,17.1,3.4,723.4657,Africa
+Sierra Leone,2005,Male,32,3.6,933.4998,Africa
+Sierra Leone,2005,Female,14.4,3.6,933.4998,Africa
+Sierra Leone,2010,Male,29.1,4.3,1192.597,Africa
+Sierra Leone,2010,Female,14.1,4.3,1192.597,Africa
+Sierra Leone,2015,Male,29.7,4.7,1401.333,Africa
+Sierra Leone,2015,Female,14.7,4.7,1401.333,Africa
+Singapore,2000,Male,15,3.7,40978.07,Asia
+Singapore,2000,Female,8,3.7,40978.07,Asia
+Singapore,2005,Male,14.6,5.6,55172.92,Asia
+Singapore,2005,Female,6.8,5.6,55172.92,Asia
+Singapore,2010,Male,12,3.2,70646.82,Asia
+Singapore,2010,Female,6.5,3.2,70646.82,Asia
+Singapore,2015,Male,11.9,1.7,86139.08,Asia
+Singapore,2015,Female,5.5,1.7,86139.08,Asia
+Slovakia,2000,Male,21.9,19.1,11354.83,Europe
+Slovakia,2000,Female,4.3,19.1,11354.83,Europe
+Slovakia,2005,Male,21.1,16.3,16616.13,Europe
+Slovakia,2005,Female,3.1,16.3,16616.13,Europe
+Slovakia,2010,Male,20,14.4,24986.61,Europe
+Slovakia,2010,Female,3.1,14.4,24986.61,Europe
+Slovakia,2015,Male,18.1,11.5,29522.04,Europe
+Slovakia,2015,Female,2.5,11.5,29522.04,Europe
+Slovenia,2000,Male,40,6.9,18047.5,Europe
+Slovenia,2000,Female,12.7,6.9,18047.5,Europe
+Slovenia,2005,Male,33.6,6.5,23945.26,Europe
+Slovenia,2005,Female,8.3,6.5,23945.26,Europe
+Slovenia,2010,Male,26.3,7.2,27766.42,Europe
+Slovenia,2010,Female,5.1,7.2,27766.42,Europe
+Slovenia,2015,Male,24.5,9,31468.36,Europe
+Slovenia,2015,Female,6,9,31468.36,Europe
+Solomon Islands,2000,Male,18.3,2.1,1370.755,Oceania
+Solomon Islands,2000,Female,8,2.1,1370.755021,Oceania
+Solomon Islands,2005,Male,14.8,2.2,1424.362,Oceania
+Solomon Islands,2005,Female,5.4,2.2,1424.362,Oceania
+Solomon Islands,2010,Male,13.8,2.1,1746.765,Oceania
+Solomon Islands,2010,Female,5.4,2.1,1746.765,Oceania
+Solomon Islands,2015,Male,13.7,2,2186.634,Oceania
+Solomon Islands,2015,Female,5,2,2186.634,Oceania
+Somalia,2000,Male,13.1,5.9,0,Africa
+Somalia,2000,Female,5,5.9,0,Africa
+Somalia,2005,Male,12.7,5.9,0,Africa
+Somalia,2005,Female,4.8,5.9,0,Africa
+Somalia,2010,Male,11.5,6,0,Africa
+Somalia,2010,Female,4.7,6,0,Africa
+Somalia,2015,Male,12.7,6.1,0,Africa
+Somalia,2015,Female,4.8,6.1,0,Africa
+South Africa,2000,Male,20.7,23.3,7560.856,Africa
+South Africa,2000,Female,6.5,23.3,7560.856,Africa
+South Africa,2005,Male,19.6,23.8,9601.272,Africa
+South Africa,2005,Female,5.8,23.8,9601.272,Africa
+South Africa,2010,Male,20.2,24.7,11647.33,Africa
+South Africa,2010,Female,5.2,24.7,11647.33,Africa
+South Africa,2015,Male,20.7,25.2,13164.48,Africa
+South Africa,2015,Female,5.1,25.2,13164.48,Africa
+South Sudan,2000,Male,17.4,12,0,Africa
+South Sudan,2000,Female,6.3,12,0,Africa
+South Sudan,2005,Male,16.7,12.2,0,Africa
+South Sudan,2005,Female,6.1,12.2,0,Africa
+South Sudan,2010,Male,15.7,12.1,3713.258,Africa
+South Sudan,2010,Female,5.9,12.1,3713.258,Africa
+South Sudan,2015,Male,14.3,12,1925.447,Africa
+South Sudan,2015,Female,5.4,12,1925.447,Africa
+Spain,2000,Male,10.1,13.8,21530.47,Europe
+Spain,2000,Female,2.9,13.8,21530.47468,Europe
+Spain,2005,Male,9.2,9.2,27702.46,Europe
+Spain,2005,Female,2.7,9.2,27702.46,Europe
+Spain,2010,Male,7.9,19.9,31954.24,Europe
+Spain,2010,Female,2.2,19.9,31954.24,Europe
+Spain,2015,Male,9.4,22.1,34818.12,Europe
+Spain,2015,Female,2.9,22.1,34818.12,Europe
+Sri Lanka,2000,Male,59.5,7.7,4392.675,Asia
+Sri Lanka,2000,Female,17.9,7.7,4392.675,Asia
+Sri Lanka,2005,Male,48.2,7.7,5766.394,Asia
+Sri Lanka,2005,Female,14.8,7.7,5766.394,Asia
+Sri Lanka,2010,Male,47.6,4.9,8357.029,Asia
+Sri Lanka,2010,Female,11.7,4.9,8357.029,Asia
+Sri Lanka,2015,Male,58.8,4.7,11779.36,Asia
+Sri Lanka,2015,Female,13.3,4.7,11779.36,Asia
+Sudan,2000,Male,18.2,13.9,0,Africa
+Sudan,2000,Female,6.5,13.9,0,Africa
+Sudan,2005,Male,18.6,13,0,Africa
+Sudan,2005,Female,6.7,13,0,Africa
+Sudan,2010,Male,17.8,12.9,0,Africa
+Sudan,2010,Female,6.8,12.9,0,Africa
+Sudan,2015,Male,16.6,12.9,0,Africa
+Sudan,2015,Female,6.3,12.9,0,Africa
+Suriname,2000,Male,46.3,12.8,7713.114,South America
+Suriname,2000,Female,12,12.8,7713.114,South America
+Suriname,2005,Male,49.4,9.8,10834.59,South America
+Suriname,2005,Female,10.9,9.8,10834.59,South America
+Suriname,2010,Male,45.7,7.6,13924.39,South America
+Suriname,2010,Female,12.8,7.6,13924.39,South America
+Suriname,2015,Male,41.6,7.2,15724.64,South America
+Suriname,2015,Female,12.6,7.2,15724.64,South America
+Sweden,2000,Male,17.1,5.5,29275.84,Europe
+Sweden,2000,Female,7.4,5.5,29275.84,Europe
+Sweden,2005,Male,17.2,7.7,33967.19,Europe
+Sweden,2005,Female,8.2,7.7,33967.19,Europe
+Sweden,2010,Male,16.9,8.6,41627.97,Europe
+Sweden,2010,Female,6.7,8.6,41627.97,Europe
+Sweden,2015,Male,17.8,7.4,47891.28,Europe
+Sweden,2015,Female,7.6,7.4,47891.28,Europe
+Switzerland,2000,Male,24.1,2.7,35748.88,Europe
+Switzerland,2000,Female,8.9,2.7,35748.88,Europe
+Switzerland,2005,Male,20.4,4.4,40572.26,Europe
+Switzerland,2005,Female,8.4,4.4,40572.26,Europe
+Switzerland,2010,Male,15.2,4.8,53119.39,Europe
+Switzerland,2010,Female,6.2,4.8,53119.39,Europe
+Switzerland,2015,Male,15.5,4.8,63648.29,Europe
+Switzerland,2015,Female,6,4.8,63648.29,Europe
+Syrian Arab Republic,2000,Male,4,2.3,0,Middle East
+Syrian Arab Republic,2000,Female,0.9,2.3,0,Middle East
+Syrian Arab Republic,2005,Male,3.8,9.9,0,Middle East
+Syrian Arab Republic,2005,Female,0.9,9.9,0,Middle East
+Syrian Arab Republic,2010,Male,4.3,8.6,0,Middle East
+Syrian Arab Republic,2010,Female,1.2,8.6,0,Middle East
+Syrian Arab Republic,2015,Male,5.2,14.6,0,Middle East
+Syrian Arab Republic,2015,Female,1.2,14.6,0,Middle East
+Tajikistan,2000,Male,8.9,11.3,935.1976,Asia
+Tajikistan,2000,Female,2.5,11.3,935.1976,Asia
+Tajikistan,2005,Male,8.9,11.2,1519.741,Asia
+Tajikistan,2005,Female,2.3,11.2,1519.741,Asia
+Tajikistan,2010,Male,7.7,11.7,2063.73,Asia
+Tajikistan,2010,Female,2.3,11.7,2063.73,Asia
+Tajikistan,2015,Male,7.2,10.4,2811.87,Asia
+Tajikistan,2015,Female,2.5,10.4,2811.87,Asia
+Tanzania (United Republic of),2000,Male,19.1,4.8,1174.301,Africa
+Tanzania (United Republic of),2000,Female,6.2,4.8,1174.301,Africa
+Tanzania (United Republic of),2005,Male,16.2,4.4,1620.584,Africa
+Tanzania (United Republic of),2005,Female,5.7,4.4,1620.584,Africa
+Tanzania (United Republic of),2010,Male,16.1,3,2048.294,Africa
+Tanzania (United Republic of),2010,Female,5.7,3,2048.294,Africa
+Tanzania (United Republic of),2015,Male,16.5,2.1,2652.532,Africa
+Tanzania (United Republic of),2015,Female,5.8,2.1,2652.532,Africa
+Thailand,2000,Male,14.5,2.4,7283.511,Asia
+Thailand,2000,Female,7.7,2.4,7283.511,Asia
+Thailand,2005,Male,17.9,1.4,10262.11,Asia
+Thailand,2005,Female,7.7,1.4,10262.11,Asia
+Thailand,2010,Male,19.5,0.6,13213.75,Asia
+Thailand,2010,Female,8.1,0.6,13213.75,Asia
+Thailand,2015,Male,18.2,0.6,16225.03,Asia
+Thailand,2015,Female,7.7,0.6,16225.03,Asia
+The former Yugoslav Republic of Macedonia,2000,Male,10.5,32.2,6126.103,Europe
+The former Yugoslav Republic of Macedonia,2000,Female,4.3,32.2,6126.103,Europe
+The former Yugoslav Republic of Macedonia,2005,Male,9.9,37.3,7759.729,Europe
+The former Yugoslav Republic of Macedonia,2005,Female,3.6,37.3,7759.729,Europe
+The former Yugoslav Republic of Macedonia,2010,Male,7.3,32,11284.81,Europe
+The former Yugoslav Republic of Macedonia,2010,Female,2.8,32,11284.81,Europe
+The former Yugoslav Republic of Macedonia,2015,Male,9.9,26.1,13766.32,Europe
+The former Yugoslav Republic of Macedonia,2015,Female,3.1,26.1,13766.32,Europe
+Timor-Leste,2000,Male,22,9.9,1009.262,Asia
+Timor-Leste,2000,Female,10.1,9.9,1009.262,Asia
+Timor-Leste,2005,Male,15.3,7.2,1099.109,Asia
+Timor-Leste,2005,Female,7.1,7.2,1099.109,Asia
+Timor-Leste,2010,Male,15.1,3.3,1667.799,Asia
+Timor-Leste,2010,Female,6.1,3.3,1667.799,Asia
+Timor-Leste,2015,Male,13.2,3.3,2044.7,Asia
+Timor-Leste,2015,Female,5.6,3.3,2044.7,Asia
+Togo,2000,Male,24.7,1.9,1012.179,Africa
+Togo,2000,Female,8.8,1.9,1012.179,Africa
+Togo,2005,Male,24.7,1.9,1051.034,Africa
+Togo,2005,Female,8.8,1.9,1051.034,Africa
+Togo,2010,Male,23.3,1.9,1183.839,Africa
+Togo,2010,Female,8.8,1.9,1183.839,Africa
+Togo,2015,Male,23.1,1.8,1436.898,Africa
+Togo,2015,Female,8.7,1.8,1436.898,Africa
+Tonga,2000,Male,5.1,4.2,3647.469,Oceania
+Tonga,2000,Female,4,4.2,3647.469,Oceania
+Tonga,2005,Male,5.1,3,4404.666,Oceania
+Tonga,2005,Female,3.6,3,4404.666,Oceania
+Tonga,2010,Male,5.4,1.1,4883.37,Oceania
+Tonga,2010,Female,3.4,1.1,4883.37,Oceania
+Tonga,2015,Male,5.1,1.1,5526.479,Oceania
+Tonga,2015,Female,3.3,1.1,5526.478696,Oceania
+Trinidad and Tobago,2000,Male,23.5,12.1,14524.09,South America
+Trinidad and Tobago,2000,Female,5.2,12.1,14524.09,South America
+Trinidad and Tobago,2005,Male,16.8,8,23532.49,South America
+Trinidad and Tobago,2005,Female,4.1,8,23532.49,South America
+Trinidad and Tobago,2010,Male,19.2,5.9,30628.54,South America
+Trinidad and Tobago,2010,Female,5.2,5.9,30628.54,South America
+Trinidad and Tobago,2015,Male,22.4,3.4,33312.64,South America
+Trinidad and Tobago,2015,Female,4.5,3.4,33312.64,South America
+Tunisia,2000,Male,7.1,15.7,6003.312,Africa
+Tunisia,2000,Female,4.3,15.7,6003.312,Africa
+Tunisia,2005,Male,6.7,12.9,7838.074,Africa
+Tunisia,2005,Female,4,12.9,7838.074,Africa
+Tunisia,2010,Male,6.8,13.1,10225.25,Africa
+Tunisia,2010,Female,4.1,13.1,10225.25,Africa
+Tunisia,2015,Male,6.7,15.2,11447.14,Africa
+Tunisia,2015,Female,4.1,15.2,11447.14,Africa
+Turkey,2000,Male,18.7,6.5,9582.26,Middle East
+Turkey,2000,Female,8,6.5,9582.26,Middle East
+Turkey,2005,Male,16.5,10.6,11887.87,Middle East
+Turkey,2005,Female,6.1,10.6,11887.87,Middle East
+Turkey,2010,Male,14.9,10.7,17442.86,Middle East
+Turkey,2010,Female,5.6,10.7,17442.86,Middle East
+Turkey,2015,Male,12.6,10.2,24844.9,Middle East
+Turkey,2015,Female,4.7,10.2,24844.9,Middle East
+Turkmenistan,2000,Male,15.7,3.9,4227.158,Middle East
+Turkmenistan,2000,Female,3.8,3.9,4227.158,Middle East
+Turkmenistan,2005,Male,19.9,3.8,5783.426,Middle East
+Turkmenistan,2005,Female,4.6,3.8,5783.426,Middle East
+Turkmenistan,2010,Male,16,4,9741.305,Middle East
+Turkmenistan,2010,Female,4.6,4,9741.305,Middle East
+Turkmenistan,2015,Male,15.8,3.6,15964.79,Middle East
+Turkmenistan,2015,Female,5.2,3.6,15964.79,Middle East
+Uganda,2000,Male,19.1,3,832.0844,Africa
+Uganda,2000,Female,7.6,3,832.0844,Africa
+Uganda,2005,Male,17.8,1.9,1088.686,Africa
+Uganda,2005,Female,6.9,1.9,1088.686,Africa
+Uganda,2010,Male,18,4,1485.203,Africa
+Uganda,2010,Female,7.4,4,1485.203,Africa
+Uganda,2015,Male,18.3,1.9,1774.011,Africa
+Uganda,2015,Female,7.6,1.9,1774.011,Africa
+Ukraine,2000,Male,57.1,11.6,3802.54,Europe
+Ukraine,2000,Female,9.8,11.6,3802.54,Europe
+Ukraine,2005,Male,40.4,7.2,6452.096,Europe
+Ukraine,2005,Female,6.2,7.2,6452.096,Europe
+Ukraine,2010,Male,34.1,8.1,7666.22,Europe
+Ukraine,2010,Female,5.8,8.1,7666.22,Europe
+Ukraine,2015,Male,28.7,9.1,7949.149,Europe
+Ukraine,2015,Female,6.2,9.1,7949.149,Europe
+United Arab Emirates,2000,Male,5.7,2.3,81818.62,Middle East
+United Arab Emirates,2000,Female,2.1,2.3,81818.62,Middle East
+United Arab Emirates,2005,Male,4.4,3.1,82205.95,Middle East
+United Arab Emirates,2005,Female,1.5,3.1,82205.95,Middle East
+United Arab Emirates,2010,Male,4.2,3.8,56415.07,Middle East
+United Arab Emirates,2010,Female,1.1,3.8,56415.07,Middle East
+United Arab Emirates,2015,Male,3.6,2.1,70254.83,Middle East
+United Arab Emirates,2015,Female,0.9,2.1,70254.83,Middle East
+United Kingdom,2000,Male,12.5,5.6,26245.86,Europe
+United Kingdom,2000,Female,3.6,5.6,26245.86,Europe
+United Kingdom,2005,Male,10.9,4.8,32436.88,Europe
+United Kingdom,2005,Female,3.4,4.8,32436.88,Europe
+United Kingdom,2010,Male,10.6,7.8,35875.46,Europe
+United Kingdom,2010,Female,3.1,7.8,35875.46,Europe
+United Kingdom,2015,Male,11.7,5.3,41579.86,Europe
+United Kingdom,2015,Female,3.2,5.3,41579.86341,Europe
+United States,2000,Male,15.9,4,36449.86,North America
+United States,2000,Female,3.9,4,36449.86,North America
+United States,2005,Male,16.7,5.1,44307.92,North America
+United States,2005,Female,4.5,5.1,44307.92,North America
+United States,2010,Male,18.2,9.6,48373.88,North America
+United States,2010,Female,5,9.6,48373.88,North America
+United States,2015,Male,19.5,5.3,56469.01,North America
+United States,2015,Female,5.8,5.3,56469.01,North America
+Uruguay,2000,Male,26.4,13.3,10204.91,South America
+Uruguay,2000,Female,5.1,13.3,10204.91,South America
+Uruguay,2005,Male,22,12.2,11553.52,South America
+Uruguay,2005,Female,6,12.2,11553.52,South America
+Uruguay,2010,Male,24.2,7.2,16736.85103,South America
+Uruguay,2010,Female,6.4,7.2,16736.85,South America
+Uruguay,2015,Male,25.2,7.5,21117.8,South America
+Uruguay,2015,Female,6.3,7.5,21117.8,South America
+Uzbekistan,2000,Male,14,8.3,1984.47,Asia
+Uzbekistan,2000,Female,4.4,8.3,1984.47,Asia
+Uzbekistan,2005,Male,11.3,8.3,2732.717,Asia
+Uzbekistan,2005,Female,3,8.3,2732.717,Asia
+Uzbekistan,2010,Male,10.4,8.2,4153.939,Asia
+Uzbekistan,2010,Female,3.8,8.2,4153.939,Asia
+Uzbekistan,2015,Male,13.6,7.9,6069.979,Asia
+Uzbekistan,2015,Female,5.2,7.9,6069.979,Asia
+Vanuatu,2000,Male,15.4,5.6,2237.525,Oceania
+Vanuatu,2000,Female,5.7,5.6,2237.525,Oceania
+Vanuatu,2005,Male,13.4,5.6,2323.515,Oceania
+Vanuatu,2005,Female,4.5,5.6,2323.515,Oceania
+Vanuatu,2010,Male,11.8,5.4,2888.398,Oceania
+Vanuatu,2010,Female,3.7,5.4,2888.398,Oceania
+Vanuatu,2015,Male,10.8,5.3,2988.851,Oceania
+Vanuatu,2015,Female,3.3,5.3,2988.851,Oceania
+Venezuela (Bolivarian Republic of),2000,Male,15.9,13.2,11424.2,South America
+Venezuela (Bolivarian Republic of),2000,Female,2,13.2,11424.2,South America
+Venezuela (Bolivarian Republic of),2005,Male,10.4,11.4,13309.7,South America
+Venezuela (Bolivarian Republic of),2005,Female,1.9,11.4,13309.7,South America
+Venezuela (Bolivarian Republic of),2010,Male,6.2,8.5,16210.29,South America
+Venezuela (Bolivarian Republic of),2010,Female,1.4,8.5,16210.29,South America
+Venezuela (Bolivarian Republic of),2015,Male,5.4,6.8,0,South America
+Venezuela (Bolivarian Republic of),2015,Female,1.1,6.8,0,South America
+Viet Nam,2000,Male,11.7,2.3,2030.797,Asia
+Viet Nam,2000,Female,3.7,2.3,2030.797,Asia
+Viet Nam,2005,Male,11.1,2.3,3032.391,Asia
+Viet Nam,2005,Female,3.3,2.3,3032.391,Asia
+Viet Nam,2010,Male,11.5,2.6,4318.997,Asia
+Viet Nam,2010,Female,3.4,2.6,4318.997,Asia
+Viet Nam,2015,Male,11.3,2.1,5915.171,Asia
+Viet Nam,2015,Female,3.4,2.1,5915.171,Asia
+Yemen,2000,Male,13,12.8,3086.355,Africa
+Yemen,2000,Female,5.9,12.8,3086.355,Africa
+Yemen,2005,Male,13.6,16.1,3699.915,Africa
+Yemen,2005,Female,6.2,16.1,3699.915,Africa
+Yemen,2010,Male,13.5,17.8,4388.145,Africa
+Yemen,2010,Female,6.4,17.8,4388.145,Africa
+Yemen,2015,Male,12.6,13.1,2812.356,Africa
+Yemen,2015,Female,6.2,13.1,2812.356,Africa
+Zambia,2000,Male,21.2,12.9,1666.884,Africa
+Zambia,2000,Female,6.2,12.9,1666.884,Africa
+Zambia,2005,Male,18.5,10.4,2210.472,Africa
+Zambia,2005,Female,5.2,10.4,2210.472,Africa
+Zambia,2010,Male,18.3,13.2,3212.942,Africa
+Zambia,2010,Female,5.2,13.2,3212.942,Africa
+Zambia,2015,Male,18.2,7.8,3862.478,Africa
+Zambia,2015,Female,5,7.8,3862.478,Africa
+Zimbabwe,2000,Male,30.7,5.7,2047.749,Africa
+Zimbabwe,2000,Female,11.1,5.7,2047.749,Africa
+Zimbabwe,2005,Male,29.3,4.5,1480.265,Africa
+Zimbabwe,2005,Female,10,4.5,1480.265,Africa
+Zimbabwe,2010,Male,28.5,5.3,1445.042,Africa
+Zimbabwe,2010,Female,10.2,5.3,1445.042,Africa
+Zimbabwe,2015,Male,26.9,5.2,2036.319,Africa
+Zimbabwe,2015,Female,10.3,5.2,2036.319,Africa
